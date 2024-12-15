@@ -24,5 +24,5 @@ Model_Test.py - Model Testing, result are confusion matrixs
 ## Other tools in paper
 
   - [Traffic(.pcap) to Png](https://github.com/yungshenglu/USTC-TK2016.git) - Used convert network traffic to images
-  - [NDPI](https://github.com/ntop/nDPI.git) - Tools for checking neywork traffic
+  - [NDPI](https://github.com/ntop/nDPI.git) - Tools for checking network traffic
   - [Old dataset](https://www.unb.ca/cic/datasets/vpn.html) 
