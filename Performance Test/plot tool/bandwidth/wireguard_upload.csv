@@ -1,0 +1,32 @@
+Protocol,Rate Index,Bandwidth (Mbps)
+wireguard,1,4.172581587
+wireguard,2,110.3878195
+wireguard,3,170.7551653
+wireguard,4,188.254599
+wireguard,5,195.7852765
+wireguard,6,188.1134737
+wireguard,7,186.0422671
+wireguard,8,164.2028111
+wireguard,9,123.6602508
+wireguard,10,134.5201278
+wireguard,11,134.1369766
+wireguard,12,141.3823607
+wireguard,13,146.8509902
+wireguard,14,155.1572594
+wireguard,15,146.5733001
+wireguard,16,161.2478817
+wireguard,17,158.0099287
+wireguard,18,154.0561016
+wireguard,19,161.5019648
+wireguard,20,160.1183385
+wireguard,21,162.8147926
+wireguard,22,164.4244788
+wireguard,23,163.3620976
+wireguard,24,165.9008087
+wireguard,25,168.67101
+wireguard,26,175.4767309
+wireguard,27,178.6192605
+wireguard,28,174.4897203
+wireguard,29,195.0135032
+wireguard,30,193.9446665
+wireguard,Summary,"Max: 195.7852764996532, Min: 4.1725815866424725, Avg: 157.5882181250032"
